@@ -1,0 +1,42 @@
+.test{
+  background-color: grey;  
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.test2{
+    background-color: grey;
+    border-radius: 20px;
+  padding: 20px;
+}
+
+.test3{
+    background-color: grey;
+    border-radius: 20px;
+  padding: 20px;
+}
+
+span{
+  color: red;
+}
+
+.result1{
+  background-color: pink;
+  border-radius: 10px;
+  padding: 20px;
+  width: 500px;
+}
+
+.result2{
+  background-color: pink;
+  border-radius: 10px;
+  padding: 20px;
+  width: 500px;
+}
+
+.result3{
+  background-color: pink;
+  border-radius: 10px;
+  padding: 20px;
+  width: 500px;
+}
